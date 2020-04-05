@@ -1,3 +1,8 @@
+
+URL Links:
+
+Github pages: https://naryan.github.io/homework2/
+
 <br>This is portfolio project, here I have create a website that is Responsive with the different screen size.</br>
 
 <br> • Created three different html file for three diffenent page main page(index.html), portfolio.html and contact.html</br>
